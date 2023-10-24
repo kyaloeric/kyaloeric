@@ -83,7 +83,7 @@
 
 ---
 
-### :fire: My Stats (includes private repos):
+### :fire: My Stats:
 
 ![](https://raw.githubusercontent.com/kyaloeric/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kyaloeric/github-stats/master/generated/languages.svg#gh-dark-mode-only)
