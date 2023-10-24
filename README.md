@@ -90,4 +90,4 @@
 
 
  <a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyaloeric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eric's github stats" /></a>
-<a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyaloeric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eric's github stats" /></a> | <a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaloeric&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyaloeric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eric's github stats" /></a> | <a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaloeric&layout=compact&theme=buefy&hide_border=true" /></a> |
