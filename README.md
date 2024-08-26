@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 ## 🦸‍♂️ I am the PR the code economy needs 
-### Web & Mobile
-- 👨‍💻 I’m currently working on Neighbors Dish
-- 🌱 I’m currently learning React and Kotlin
-- 💬 Ask me about  Web development, Android,  Jamstack, CICD, Cloudflare, and everything inbetween
-- 📫 How to reach me: Discord: rics19
-- ⚡ Fun fact: I've
+### Software engineer
+- 👨‍💻 I’m currently working on Flypoints
+- 🌱 I’m currently learning FastApI
+- 💬 Ask me about  Web development, Mobile development,  Jamstack, CICD, Cloudflare, and everything inbetween
+- 📫 How to reach me: Discord: erickyalo19@gmail.com
 - 📚 Currently reading: CEO Excellence by Carolyn Dewar
 
 ---
