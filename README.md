@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working on Flypoints
 - 🌱 I’m currently learning FastApI
 - 💬 Ask me about  Web development, Mobile development,  Jamstack, CICD, Cloudflare, and everything inbetween
-- 📫 How to reach me: Discord: erickyalo19@gmail.com
+- 📫 How to reach me: Email: erickyalo19@gmail.com
 - 📚 Currently reading: CEO Excellence by Carolyn Dewar
 
 ---
