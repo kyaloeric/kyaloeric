@@ -48,7 +48,7 @@
 </div>
 
 
-<div>
+<!--<div>
  
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;-->
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="Angular" alt="Angular" width="40" height="40"/>&nbsp;-->
@@ -59,12 +59,12 @@
    
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>&nbsp;
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp; -->
-</div> 
+<!-- </div> -->
 
 
 ---
 
-### 🤝 Connect with me :
+<!-- ### 🤝 Connect with me :
 
 <div id="badges">
   <a href="https://twitter.com/">
@@ -89,16 +89,16 @@
   <a href="https://www.reddit.com/user/">
     <img src="https://img.shields.io/badge/Reddit-orangered?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-</div>
+</div  -->
 
 ---
 
-### :fire: My Stats:
+<!-- ### :fire: My Stats: -->
 
-![](https://raw.githubusercontent.com/kyaloeric/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/kyaloeric/github-stats/master/generated/overview.svg#gh-dark-mode-only) -->
 
-![](https://raw.githubusercontent.com/kyaloeric/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+ <!-- ![](https://raw.githubusercontent.com/kyaloeric/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 
 <!-- <a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyaloeric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eric's github stats" /></a> -->
-| <a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaloeric&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!-- | <a href="https://github.com/kyaloeric"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaloeric&layout=compact&theme=buefy&hide_border=true" /></a> | -->
